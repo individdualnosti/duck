@@ -1,1 +1,1 @@
-Line C from main
+Line B from feature (kept) and Line C from main
